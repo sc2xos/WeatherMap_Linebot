@@ -1,0 +1,4 @@
+psycopg2
+line-bot-sdk
+opencv
+python-dotenv
